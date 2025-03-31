@@ -23,8 +23,8 @@ This repository contains code for a PDF question-answering system using Retrieva
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone -b falcon_rag https://github.com/kalyan659/LLM.git
+    cd falcon_rag
     ```
 
 2.  **Create a virtual environment (recommended):**
